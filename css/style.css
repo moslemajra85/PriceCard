@@ -4,6 +4,6 @@ body {
 
 @media(min-width: 800px) {
     .container {
-        width: 600px;
+        width: 700px;
     }
 }
